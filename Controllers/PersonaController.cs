@@ -6,7 +6,7 @@ using TestDiFineQuadrimestre2.Dto;
 namespace TestDiFineQuadrimestre2.Controllers;
 
 [Route("api/persone")]
-[ApiController]
+[ApiController] 
 public class PersonaController : ControllerBase
 {
 
